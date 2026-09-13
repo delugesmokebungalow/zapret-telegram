@@ -1,0 +1,19 @@
+# zapret-telegram
+
+> Актуальная версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+
+Если в Telegram не грузятся картинки, zapret-telegram чинит канал без VPN-клиента.
+
+## Страницы
+- Сайт: https://delugesmokebungalow.github.io/zapret-telegram/
+- Релиз: https://github.com/delugesmokebungalow/zapret-telegram/releases/latest
+- Исходный код: https://github.com/delugesmokebungalow/zapret-telegram
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
